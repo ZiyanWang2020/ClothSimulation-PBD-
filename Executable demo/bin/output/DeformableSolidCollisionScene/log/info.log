@@ -1,0 +1,88 @@
+[2020-09-11 14:43:25] Debug:   Git refspec: refs/heads/master
+[2020-09-11 14:43:25] Debug:   Git SHA1:    67cea4478d58de55f64f78fcfea16629bfb79152
+[2020-09-11 14:43:25] Debug:   Git status:  DIRTY
+[2020-09-11 14:43:25] Debug:   Host name:   DESKTOP-6KQ7FCA
+[2020-09-11 14:43:26] Info:    OpenGL version 4.3
+[2020-09-11 14:43:26] Info:    Using GLEW 1.12.0
+[2020-09-11 14:43:26] Info:    Vendor: Intel
+[2020-09-11 14:43:26] Info:    Renderer: Intel(R) HD Graphics 4600
+[2020-09-11 14:43:26] Info:    Version: 4.3.0 - Build 20.19.15.4549
+[2020-09-11 14:43:26] Info:    Number of triangles: 4802
+[2020-09-11 14:43:26] Info:    Number of vertices: 2500
+[2020-09-11 14:43:26] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/sphere.obj
+[2020-09-11 14:43:26] Info:    Number of triangles: 2280
+[2020-09-11 14:43:26] Info:    Number of vertices: 1146
+[2020-09-11 14:43:26] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/torus.obj
+[2020-09-11 14:43:26] Info:    Number of triangles: 1600
+[2020-09-11 14:43:26] Info:    Number of vertices: 800
+[2020-09-11 14:43:26] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/cube.obj
+[2020-09-11 14:43:26] Info:    Number of triangles: 12
+[2020-09-11 14:43:26] Info:    Number of vertices: 8
+[2020-09-11 14:43:31] Info:    ---------------------------------------------------------------------------
+
+[2020-09-11 14:43:31] Info:    Number of triangles: 4802
+[2020-09-11 14:43:31] Info:    Number of vertices: 2500
+[2020-09-11 14:43:31] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/sphere.obj
+[2020-09-11 14:43:31] Info:    Number of triangles: 2280
+[2020-09-11 14:43:31] Info:    Number of vertices: 1146
+[2020-09-11 14:43:31] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/torus.obj
+[2020-09-11 14:43:31] Info:    Number of triangles: 1600
+[2020-09-11 14:43:31] Info:    Number of vertices: 800
+[2020-09-11 14:43:31] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/cube.obj
+[2020-09-11 14:43:31] Info:    Number of triangles: 12
+[2020-09-11 14:43:31] Info:    Number of vertices: 8
+[2020-09-11 14:43:32] Info:    ---------------------------------------------------------------------------
+
+[2020-09-11 14:43:32] Info:    Number of triangles: 4802
+[2020-09-11 14:43:32] Info:    Number of vertices: 2500
+[2020-09-11 14:43:32] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/sphere.obj
+[2020-09-11 14:43:32] Info:    Number of triangles: 2280
+[2020-09-11 14:43:32] Info:    Number of vertices: 1146
+[2020-09-11 14:43:32] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/torus.obj
+[2020-09-11 14:43:32] Info:    Number of triangles: 1600
+[2020-09-11 14:43:32] Info:    Number of vertices: 800
+[2020-09-11 14:43:32] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/cube.obj
+[2020-09-11 14:43:32] Info:    Number of triangles: 12
+[2020-09-11 14:43:32] Info:    Number of vertices: 8
+[2020-09-11 14:43:34] Info:    ---------------------------------------------------------------------------
+
+[2020-09-11 14:43:35] Info:    Number of triangles: 4802
+[2020-09-11 14:43:35] Info:    Number of vertices: 2500
+[2020-09-11 14:43:35] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/sphere.obj
+[2020-09-11 14:43:35] Info:    Number of triangles: 2280
+[2020-09-11 14:43:35] Info:    Number of vertices: 1146
+[2020-09-11 14:43:35] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/torus.obj
+[2020-09-11 14:43:35] Info:    Number of triangles: 1600
+[2020-09-11 14:43:35] Info:    Number of vertices: 800
+[2020-09-11 14:43:35] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/cube.obj
+[2020-09-11 14:43:35] Info:    Number of triangles: 12
+[2020-09-11 14:43:35] Info:    Number of vertices: 8
+[2020-09-11 14:43:47] Info:    Average time position constraints projection: 2.2472 ms
+[2020-09-11 14:43:47] Info:    Average time collision detection: 0.38991 ms
+[2020-09-11 14:43:47] Info:    Average time simulation step: 3.08366 ms
+[2020-09-11 14:43:47] Info:    Average time SimStep: 3.08544 ms
+[2020-09-11 14:43:47] Info:    ---------------------------------------------------------------------------
+
+[2020-09-11 14:43:47] Info:    Number of triangles: 4802
+[2020-09-11 14:43:47] Info:    Number of vertices: 2500
+[2020-09-11 14:43:47] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/sphere.obj
+[2020-09-11 14:43:47] Info:    Number of triangles: 2280
+[2020-09-11 14:43:47] Info:    Number of vertices: 1146
+[2020-09-11 14:43:47] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/torus.obj
+[2020-09-11 14:43:47] Info:    Number of triangles: 1600
+[2020-09-11 14:43:47] Info:    Number of vertices: 800
+[2020-09-11 14:43:47] Info:    Loading C:/Users/Jessica/Desktop/毕设/布料演示最终版 - 程序加代码(3)(1)/ClothSubmit/ClothSimulation/Executable demo/data/models/cube.obj
+[2020-09-11 14:43:47] Info:    Number of triangles: 12
+[2020-09-11 14:43:47] Info:    Number of vertices: 8
+[2020-09-11 14:44:12] Info:    Average time position constraints projection: 2.39653 ms
+[2020-09-11 14:44:12] Info:    Average time collision detection: 0.729336 ms
+[2020-09-11 14:44:12] Info:    Average time simulation step: 3.70676 ms
+[2020-09-11 14:44:12] Info:    Average time SimStep: 3.7085 ms
+[2020-09-11 14:44:12] Info:    ---------------------------------------------------------------------------
+
+[2020-09-11 14:44:12] Info:    Time sum position constraints projection: 12787.9 ms
+[2020-09-11 14:44:12] Info:    Time sum collision detection: 3891.74 ms
+[2020-09-11 14:44:12] Info:    Time sum simulation step: 19779.3 ms
+[2020-09-11 14:44:12] Info:    Time sum SimStep: 19788.6 ms
+[2020-09-11 14:44:12] Info:    ---------------------------------------------------------------------------
+
